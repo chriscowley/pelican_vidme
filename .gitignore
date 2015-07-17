@@ -1,3 +1,4 @@
 dist/
 pelican_vidme.egg-info/
 *.pyc
+*~
