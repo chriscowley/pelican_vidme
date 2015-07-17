@@ -2,7 +2,7 @@ from setuptools import setup
 from setuptools import find_packages
 
 version = __import__('pelican_vidme').__version__
-download_url = 'https://github.com/chriscowley/pelican_vidme/archive/{}.zip'.format(version)
+download_url = 'https://github.com/chriscowley/pelican_vidme/archive/v{}.zip'.format(version)
 
 setup(name='pelican_vidme',
       version=version,

@@ -19,7 +19,7 @@
 
 # -*- coding: utf-8 -*-
 __title__ = 'pelican-vidme'
-__version__ = '0.1.0'
+__version__ = '0.1.1'
 __author__ = 'Chris Cowley '
 __credits__ = ["Chris Cowley", ]
 __maintainer__ = "Chris Cowley"

@@ -83,4 +83,4 @@ class Vidme(Directive):
 
 
 def register():
-    directives.register_directive('vimeo', Vimeo)
+    directives.register_directive('vidme', Vidme)
